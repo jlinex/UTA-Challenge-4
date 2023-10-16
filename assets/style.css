@@ -106,3 +106,8 @@ li:nth-child(odd) {
 		max-width: 90%; 
 	} 
 }
+
+#high-scores-list {
+	display: flex;
+	font-size: small;
+}
