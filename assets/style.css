@@ -107,7 +107,8 @@ li:nth-child(odd) {
 	} 
 }
 
-#high-scores-list{
+
+#high-scores-list {
 	display: flex;
 	font-size: small;
 }
