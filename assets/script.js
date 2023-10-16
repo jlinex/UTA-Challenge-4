@@ -16,9 +16,9 @@ let questions = [
 	prompt: `Arrays in JavaScript are defined by which of the following statements?`, 
 	options: [ 
 			"It is an ordered list of values", 
-			"It is an ordered list of objects", 
-			"It is an ordered list of objects", 
-			"It is an ordered list of objects",
+			"It is an ordered list of standard", 
+			"It is an unordered list of objects", 
+			"It is an unordered list of standards",
 			], 
 	answer: "It is an ordered list of objects", 
 	}, 
